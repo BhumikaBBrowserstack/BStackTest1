@@ -8,6 +8,7 @@ public class HelloGit {
 		
 		System.out.println("Hello Git");
 		System.out.println("Hello Git after inital commit");
+		System.out.println("Commiting directly without staging");
 
 	}
 
